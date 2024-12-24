@@ -8,50 +8,52 @@ A Flutter-based LinkedIn Clone application that provides key features for job se
 
 **Features**
 
-** * User Authentication:**
+**User Authentication:**
 
 * Sign-up, login, and logout functionality using Firebase or similar services.
 
-** * Profile Management:*
+**Profile Management:**
 
 * Create and edit professional profiles with user details, skills, and achievements.
 
-** * Job Listings:*
+**Job Listings:**
 
 * Browse job listings with search and filter capabilities.
 
 * Bookmark and apply for jobs directly through the app.
 
-** * Post Jobs:*
+**Post Jobs:**
 
 * Employers can post job openings and manage applications.
 
-** * Recommendations:*
+**Recommendations:**
 
 * Personalized job recommendations based on user profiles and interests.
 
-** * Networking:*
+**Networking:**
 
 * Connect with professionals and send messages.
+  ______________________________________________________________
 
 **Screens**
 
-** * Home Page**: Displays feed with updates and job recommendations.
+**Home Page**: Displays feed with updates and job recommendations.
 
-** * Jobs Page**: Provides job listings, bookmarking, and application functionality.
+**Jobs Page**: Provides job listings, bookmarking, and application functionality.
 
-** * Profile Page**: Displays user profile details, including the ability to edit them.
+**Profile Page**: Displays user profile details, including the ability to edit them.
 
-** * Post Job Page**: Allows employers to post new job openings.
+**Post Job Page**: Allows employers to post new job openings.
+______________________________________________________________
 
 **Technologies Used**
 
-** * Flutter:** Cross-platform development framework for Android and iOS.
+**Flutter:** Cross-platform development framework for Android and iOS.
 
-** * Dart:** Programming language for Flutter.
+**Dart:** Programming language for Flutter.
 
-Firebase (or alternative backend): Authentication and real-time database.
+**Firebase (or alternative backend): Authentication and real-time database.**
 
-Font Awesome Icons: For modern and professional iconography.
+**Font Awesome Icons:** For modern and professional iconography.
 
-Custom Theme and Styles: For consistent UI/UX.
+**Custom Theme and Styles: For consistent UI/UX.**
